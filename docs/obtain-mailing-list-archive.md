@@ -2,11 +2,14 @@ The following process documents how to obtain the mailing list, some
 post-processing to simply importing, and a few extra steps I performed to share
 the files via torrent.
 
-Testers can obtain the mailing list archives via Bittorrent
-\[[1](files/nix-dev-mailing-list-2004-2017.tar.torrent)] as a courtesy to avoid
-additional load/costs on the nixos.org server.
+As a courtesy to avoid additional load/costs on the nixos.org server,
+testers can obtain the mailing list archives via: 
 
-\[1]: files/nix-dev-mailing-list-2004-2017.tar.torrent
+  - Bittorrent \[[1](files/nix-dev-mailing-list-2004-2017.tar.torrent)]
+  - IPFS \[[2](https://ipfs.io/ipfs/QmPppdYKjHhp8qgueQampBdNchCS59k2TRAii7gQG8B3Y7)] (save as nix-dev-mailing-list-2004-2017.tar)
+
+\[1]: files/nix-dev-mailing-list-2004-2017.tar.torrent  
+\[2]: https://ipfs.io/ipfs/QmPppdYKjHhp8qgueQampBdNchCS59k2TRAii7gQG8B3Y7
 
 ## Extract Archive URLs from nixos.org/nix-dev
 
