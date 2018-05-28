@@ -6,10 +6,15 @@ As a courtesy to avoid additional load/costs on the nixos.org server,
 testers can obtain the mailing list archives via: 
 
   - Bittorrent \[[1](files/nix-dev-mailing-list-2004-2017.tar.torrent)]
-  - IPFS \[[2](https://ipfs.io/ipfs/QmPppdYKjHhp8qgueQampBdNchCS59k2TRAii7gQG8B3Y7)] (save as nix-dev-mailing-list-2004-2017.tar)
+  - IPFS
+    \[[2](https://ipfs.io/ipfs/QmPppdYKjHhp8qgueQampBdNchCS59k2TRAii7gQG8B3Y7)]
+    (save as nix-dev-mailing-list-2004-2017.tar)
+  - Git LFS.  Install LFS \[[3](https://git-lfs.github.com/)] and after a `git
+    checkout`, find the archive in `files/nix-dev-mailing-list-2004-2017.tar`.
 
 \[1]: files/nix-dev-mailing-list-2004-2017.tar.torrent  
 \[2]: https://ipfs.io/ipfs/QmPppdYKjHhp8qgueQampBdNchCS59k2TRAii7gQG8B3Y7
+\[3]: https://git-lfs.github.com/
 
 ## Extract Archive URLs from nixos.org/nix-dev
 
